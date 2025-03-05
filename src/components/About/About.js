@@ -23,20 +23,19 @@ function About() {
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            Hello! My name is <strong>Pedro Muniz</strong>. I'm originally from Brazil and have been living in Canada for the past three years. During my time here, I gained valuable experience through various entry-level positions, which greatly enhanced my work ethic, communication skills, and adaptability.
+            I'm <strong>Chanuka Weerasinghe</strong>, an IT undergraduate specializing in Information Technology at SLIIT. With a strong passion for software development
             </ScrollAnimation>
 
             <br /><br />
             
             <ScrollAnimation animateIn="fadeInLeft">
-            My journey into the world of technology began with a strong passion for problem-solving, which led me to pursue the Computer Systems Technology program. Despite its challenges, I remained determined and forged lasting friendships that supported me throughout this demanding program.
-            Throughout my studies at BCIT, I had the opportunity to engage in fascinating projects. Notably, I contributed to the development of the RENR Safety App and MyMind, projects that garnered recognition from my colleagues, instructors, and clients alike.
+            I have experience in front-end and back-end technologies, including React, Angular, Java, Spring Boot, and .NET. I thrive in Agile environments and have hands-on experience with database management (MySQL, MongoDB, Firebase) and cloud technologies like Azure. My portfolio includes projects ranging from web applications to AI-driven solutions, showcasing my ability to build efficient, scalable, and user-friendly software.
             </ScrollAnimation>
 
             <br /><br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-              Working collaboratively within a team towards a shared objective has been an incredibly rewarding and unique experience for me. I am eager to continue exploring exciting projects in the future, with a particular interest in web development and cross-platform mobile development.
+            Beyond coding, I’m a problem solver who enjoys tackling complex challenges with innovative solutions. I actively engage in collaborative projects, leveraging my skills in teamwork, leadership, and critical thinking. Whether it's building web applications, integrating AI models, or optimizing software performance, I’m always eager to learn and improve. If you're looking for a passionate developer who blends creativity with technical expertise, let’s connect!
               <div className="tagline2">
                 I have become confident using the following technologies:
               </div>
